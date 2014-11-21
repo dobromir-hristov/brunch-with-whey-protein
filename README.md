@@ -21,3 +21,10 @@ Clone this repo manually with git or use `brunch new gh:dobromir-hristov/brunch-
     * Write scripts in Javascript or Coffeescript in `app/scripts`.
     * Write styles in SCSS `app/styles`.
     * Make use of [Foundation](http://foundation.zurb.com), [jQuery](http://jquery.com) and [Bourbon](http://bourbon.io) anytime, anywhere.
+# For newcomers
+    Brunch with Whey Protein is a skeleton (boilerplate) for [Brunch](http://brunch.io)
+    based on [Foundation by Zurb](http://foundation.zurb.com) and [Bourbon](http://bourbon.io)
+## Features
+    * HTML5Boilerplate.
+    * SCSS styling along with CSS (but who needs it when you got sass)
+    * Bourbon mixins for better SASS 
