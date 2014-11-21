@@ -1,0 +1,22 @@
+{
+  "name": "Brunch-with-Whey-Protein",
+  "description": "Bruch skeleton with SASS support and Foundation 5",
+  "author": "Dobromir Hristov",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "brunch test"
+  },
+  "dependencies": {
+    "auto-reload-brunch": ">= 1.0 < 1.8",
+    "clean-css-brunch": ">= 1.0 < 1.8",
+    "css-brunch": ">= 1.0 < 1.8",
+    "javascript-brunch": ">= 1.0 < 1.8",
+    "sass-brunch": "^1.8.7",
+    "uglify-js-brunch": ">= 1.0 < 1.8"
+  }
+}

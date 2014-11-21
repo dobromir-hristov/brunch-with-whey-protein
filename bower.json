@@ -1,0 +1,22 @@
+{
+  "name": "Brunch-with-Whey-Protein",
+  "version": "0.0.1",
+  "main": "public/js/app.js",
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "foundation": "zurb/bower-foundation#~5.4.7",
+    "bower-bourbon": "~3.1.8"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "overrides": {
+    "foundation": {
+      "main": [
+        "js/foundation.js"
+      ]
+    }
+  }
+}
