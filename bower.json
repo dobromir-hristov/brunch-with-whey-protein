@@ -17,6 +17,11 @@
       "main": [
         "js/foundation.js"
       ]
+    },
+    "modernizr":{
+      "main":[
+        "modernizr.js"
+      ]
     }
   }
 }
