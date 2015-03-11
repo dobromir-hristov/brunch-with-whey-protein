@@ -5,7 +5,7 @@
   "dependencies": {
     "jquery": "~2.1.0",
     "foundation": "zurb/bower-foundation#~5.4.7",
-    "bower-bourbon": "~3.1.8"
+    "bourbon": "~4.2.1"
   },
   "ignore": [
     "**/.*",
@@ -18,8 +18,8 @@
         "js/foundation.js"
       ]
     },
-    "modernizr":{
-      "main":[
+    "modernizr": {
+      "main": [
         "modernizr.js"
       ]
     }

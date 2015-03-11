@@ -27,6 +27,6 @@ exports.config =
       mode: 'native'
       options:
         includePaths: [
-          'bower_components/bower-bourbon/'
+          'bower_components/bourbon/'
         ]
 
